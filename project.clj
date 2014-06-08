@@ -13,7 +13,7 @@
               :builds [{:id "svg"
                         :source-paths ["src"]
                         :compiler {
-                                   :output-to "js/svg.js"
+                                   :output-to "page/js/svg.js"
                                    :output-dir "out"
                                    :optimizations :advanced
                                    :pretty-print false}}]})
